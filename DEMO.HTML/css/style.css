@@ -9,13 +9,13 @@ header{
     background-color: #13436d;
     color: white;
     padding: 10px ;
-    text: size adjust 15px;
+    text-size-adjust: 15px;
 }
 nav a {
     text-decoration:none;
     color:rgb(255, 255, 255);
     margin-right: 15px;
-    text: size adjust 15px;
+    text-size-adjust: 15px;
  }
  nav a:hover{
 text-decoration: underline;
